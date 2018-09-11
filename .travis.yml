@@ -6,5 +6,7 @@ addons:
 apt:
 packages:
  - powershell
+install:
+ - sudo apt-get install -y powershell
 script:
  - ./test.ps1
