@@ -1,4 +1,4 @@
-# Powershell script that prints Hello
+# Powershell script that prints Hello [![Build Status](https://travis-ci.org/achuchulev/hello-ps.svg?branch=master)](https://travis-ci.org/achuchulev/hello-ps)
 
 ### Instructions on how to install Powershell
 
