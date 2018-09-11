@@ -1,5 +1,4 @@
-# hello-ps
-Powershell script that prints Hello
+# Powershell script that prints Hello
 
 ### Instructions on how to install Powershell
 
@@ -11,3 +10,7 @@ Powershell script that prints Hello
 #### On Linux distros
 
 * [Follow the link with instructions](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-powershell-core-on-linux?view=powershell-6)
+
+### Run script
+
+* Open console and run the script using command `./hello.ps1'
