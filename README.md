@@ -13,4 +13,4 @@
 
 ### Run script
 
-* Open console and run the script using command `./hello.ps1'
+* Open console and run the script using command `./hello.ps1`
